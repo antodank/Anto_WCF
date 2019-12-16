@@ -1,0 +1,10 @@
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\bin\Debug\DuplexWCFHost.exe.config
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\bin\Debug\DuplexWCFHost.exe
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\bin\Debug\DuplexWCFHost.pdb
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\bin\Debug\Sample3WcfService.dll
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\bin\Debug\Sample3WcfService.pdb
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\bin\Debug\Sample3WcfService.dll.config
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\obj\Debug\DuplexWCFHost.csprojResolveAssemblyReference.cache
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\obj\Debug\DuplexWCFHost.csproj.CoreCompileInputs.cache
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\obj\Debug\DuplexWCFHost.exe
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\DuplexWCFHost\obj\Debug\DuplexWCFHost.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\bin\Debug\WCFSelfHost.exe.config
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\bin\Debug\WCFSelfHost.exe
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\bin\Debug\WCFSelfHost.pdb
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\bin\Debug\SampleWCFService.dll
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\bin\Debug\SampleWCFService.pdb
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\bin\Debug\SampleWCFService.dll.config
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.Form1.resources
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.exe
+C:\Users\Administrator\source\repos\SampleWCFService\WCFSelfHost\obj\Debug\WCFSelfHost.pdb

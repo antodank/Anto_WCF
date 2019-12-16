@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SampleWCFService\SampleWCFService\bin\Debug\SampleWCFService.dll.config
+C:\Users\Administrator\source\repos\SampleWCFService\SampleWCFService\bin\Debug\SampleWCFService.dll
+C:\Users\Administrator\source\repos\SampleWCFService\SampleWCFService\bin\Debug\SampleWCFService.pdb
+C:\Users\Administrator\source\repos\SampleWCFService\SampleWCFService\obj\Debug\SampleWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SampleWCFService\SampleWCFService\obj\Debug\SampleWCFService.dll
+C:\Users\Administrator\source\repos\SampleWCFService\SampleWCFService\obj\Debug\SampleWCFService.pdb

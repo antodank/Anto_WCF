@@ -1,0 +1,7 @@
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\bin\MyWcfService.dll.config
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\bin\MyWcfService.dll
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\bin\MyWcfService.pdb
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\obj\Debug\MyWcfService.csprojResolveAssemblyReference.cache
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\obj\Debug\MyWcfService.csproj.CoreCompileInputs.cache
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\obj\Debug\MyWcfService.dll
+C:\Users\antodank.CORP\source\repos\MyWcfService\MyWcfService\obj\Debug\MyWcfService.pdb

@@ -1,0 +1,6 @@
+C:\Users\antodank.CORP\source\repos\WASWCFService\WASWcfService\bin\WASWcfService.dll.config
+C:\Users\antodank.CORP\source\repos\WASWCFService\WASWcfService\bin\WASWcfService.dll
+C:\Users\antodank.CORP\source\repos\WASWCFService\WASWcfService\bin\WASWcfService.pdb
+C:\Users\antodank.CORP\source\repos\WASWCFService\WASWcfService\obj\Release\WASWcfService.csproj.CoreCompileInputs.cache
+C:\Users\antodank.CORP\source\repos\WASWCFService\WASWcfService\obj\Release\WASWcfService.dll
+C:\Users\antodank.CORP\source\repos\WASWCFService\WASWcfService\obj\Release\WASWcfService.pdb

@@ -1,0 +1,11 @@
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\bin\Debug\netcoreapp2.0\MUApplication.deps.json
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\bin\Debug\netcoreapp2.0\MUApplication.runtimeconfig.json
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\bin\Debug\netcoreapp2.0\MUApplication.runtimeconfig.dev.json
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\bin\Debug\netcoreapp2.0\MUApplication.dll
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\bin\Debug\netcoreapp2.0\MUApplication.pdb
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\obj\Debug\netcoreapp2.0\MUApplication.csprojResolveAssemblyReference.cache
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\obj\Debug\netcoreapp2.0\MUApplication.csproj.CoreCompileInputs.cache
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\obj\Debug\netcoreapp2.0\MUApplication.AssemblyInfoInputs.cache
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\obj\Debug\netcoreapp2.0\MUApplication.AssemblyInfo.cs
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\obj\Debug\netcoreapp2.0\MUApplication.dll
+C:\Users\antodank.CORP\source\repos\MUApplication\MUApplication\obj\Debug\netcoreapp2.0\MUApplication.pdb

@@ -1,0 +1,10 @@
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.csprojResolveAssemblyReference.cache
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.Form1.resources
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.Properties.Resources.resources
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.csproj.GenerateResource.Cache
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.csproj.CoreCompileInputs.cache
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\bin\Debug\DuplexClient.exe.config
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\bin\Debug\DuplexClient.exe
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\bin\Debug\DuplexClient.pdb
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.exe
+c:\users\antodank.corp\source\repos\DuplexClient\DuplexClient\obj\Debug\DuplexClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\bin\Release\ConsumeWASService.exe.config
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\bin\Release\ConsumeWASService.exe
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\bin\Release\ConsumeWASService.pdb
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\obj\Release\ConsumeWASService.csprojResolveAssemblyReference.cache
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\obj\Release\ConsumeWASService.csproj.CoreCompileInputs.cache
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\obj\Release\ConsumeWASService.exe
+C:\Users\antodank.CORP\source\repos\WASWCFService\ConsumeWASService\obj\Release\ConsumeWASService.pdb

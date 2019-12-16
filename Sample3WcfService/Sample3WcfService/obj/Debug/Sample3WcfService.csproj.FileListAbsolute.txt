@@ -1,0 +1,6 @@
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\Sample3WcfService\bin\Sample3WcfService.dll.config
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\Sample3WcfService\bin\Sample3WcfService.dll
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\Sample3WcfService\bin\Sample3WcfService.pdb
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\Sample3WcfService\obj\Debug\Sample3WcfService.csproj.CoreCompileInputs.cache
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\Sample3WcfService\obj\Debug\Sample3WcfService.dll
+C:\Users\antodank.CORP\source\repos\Sample3WcfService\Sample3WcfService\obj\Debug\Sample3WcfService.pdb
